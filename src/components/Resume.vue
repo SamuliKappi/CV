@@ -51,7 +51,6 @@
     padding: 15px 20px 10px;
     margin-left: 20px;
     margin-bottom: 20px;
-    background-color: #fff;
     border-left: 2px solid #2eca7f;
     box-shadow: 0 0 3px 0 rgba(0,0,0,.2);
     width: 400px;
