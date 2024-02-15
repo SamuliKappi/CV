@@ -5,6 +5,7 @@
   import Resume from './components/Resume.vue'
   import About from './components/About.vue'
   import Cv from './components/Cv.vue'
+  import Skills from './components/Skills.vue'
   const currentPage = ref(0)
   function changePage(p) {
     currentPage.value = p
@@ -18,7 +19,9 @@
     <Welcome v-if="currentPage === 0"></Welcome>
     <Resume v-else-if="currentPage === 1"></Resume>
     <Cv v-else-if="currentPage === 2"></Cv>
-    <About v-else-if="currentPage === 3"></About>
+    <Skills v-else-if="currentPage === 3"></Skills>
+    <About v-else-if="currentPage === 4"></About>
+    
   </div>
 </template>
 

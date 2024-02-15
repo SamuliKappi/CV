@@ -8,7 +8,10 @@
     <h2>Developer</h2>
     <div class="about">
       <h3>About Me</h3>
-      <p>Hello, I'm Samuli Käppi. I'm a software developer studying at Tampere University.</p>
+      <p>Hello, I'm Samuli Käppi. I'm a software developer studying at Tampere University. <br>
+      I am well acquainted with a lot of concepts related to programming and <br>
+      have not found a problem that I haven't been able to solve so far, and I do not plan on for that to change.
+      </p>
     </div>
     <div>
       <img class="avatar" src="../avatar/avatar.jpg">

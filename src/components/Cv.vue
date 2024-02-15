@@ -18,7 +18,7 @@
           Hangboard Routine website
         </h2>
       </a>
-      <i>The website works as a follow along Hangboard <br/> routine for Emil Abrahamsson's low intensity hang routine.</i>
+      <i>The website works as a follow along Hangboard <br/> routine for Emil Abrahamsson's low intensity hang routine. <br> Made with Vue</i>
     </li>
     <li>
       <a href="https://github.com/SamuliKappi/webdev" target="_blank">
@@ -26,7 +26,7 @@
           Full stack open
         </h2>
       </a>
-      <i>Full stack open of the year 2021</i>
+      <i>Full stack open of the year 2021. <br>Made with mostly React</i>
     </li>
     <li>
       <a href="https://github.com/SamuliKappi/MultiPersonCalc" target="_blank">
@@ -34,7 +34,7 @@
           Multi person calculator
         </h2>
       </a>
-      <i>This was made for Secure Programming course.</i>
+      <i>This was made for Secure Programming course. <br> Made with Python</i>
     </li>
     <li>
       <a href="https://github.com/SamuliKappi/TestingProject" target="_blank">
@@ -42,7 +42,7 @@
           Testing Project
         </h2>
       </a>
-      <i>A school project to practice Jest for testing</i>
+      <i>A school project to practice Jest for testing <br>Jest was used as the testing library</i>
     </li>
   </ul>
 </template>

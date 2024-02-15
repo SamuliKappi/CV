@@ -7,7 +7,8 @@
     <a href="javascript:;" @click="$emit('changePage', 0)">Home</a>
     <a href="javascript:;" @click="$emit('changePage', 1)">Resume</a>
     <a href="javascript:;" @click="$emit('changePage', 2)">CV</a>
-    <a href="javascript:;" @click="$emit('changePage', 3)">About This Page</a>
+    <a href="javascript:;" @click="$emit('changePage', 3)">Skills</a>
+    <a href="javascript:;" @click="$emit('changePage', 4)">About This Page</a>
   </div>
 </template>
 
